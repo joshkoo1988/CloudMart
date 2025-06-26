@@ -1,14 +1,18 @@
+# Node
+node_modules/
+
 # Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
 
-# Node
-node_modules/
-
-# OS / editor
+# System / editor
 .DS_Store
 .env
 
-# Kubectl (downloaded binary)
+# Kubectl binary
 frontend/kubectl
+
+# Kubernetes config
+*cloudmart-backend.yaml
+*cloudmart-frontend.yaml
