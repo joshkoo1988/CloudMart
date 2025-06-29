@@ -1,6 +1,6 @@
 # CloudMart – MultiCloud, DevOps & AI Challenge
 
-Welcome to **CloudMart** — a comprehensive hands-on guide and project that teaches you how to provision real-world AWS infrastructure using **Terraform**, containerize applications using **Docker**, and deploy them using **Kubernetes** (EKS), all assisted by **AI tools** like Claude or ChatGPT.
+CloudMart is a full-stack, multi-cloud DevOps and AI integration project that teaches you how to provision real-world AWS infrastructure using Terraform, containerize applications with Docker, and deploy to Kubernetes (EKS). It features end-to-end CI/CD pipelines, secure S3 and DynamoDB provisioning, and advanced AI assistants powered by Amazon Bedrock, OpenAI, and BigQuery. Ideal for DevOps professionals and cloud learners.
 
 This project is ideal for DevOps professionals, cloud learners, and automation enthusiasts looking to:
 
