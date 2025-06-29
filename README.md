@@ -14,7 +14,7 @@ This project is ideal for DevOps professionals, cloud learners, and automation e
 
 ## CloudMart Architecture Diagram
 
-![CloudMart Architecture](https://thecloudbootcamp.com/wp-content/uploads/2024/09/mdac-architecture-1024x491.png)
+![CloudMart Architecture](https://imgur.com/Ae8J5Oe.png)
 
 ---
 
