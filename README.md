@@ -12,6 +12,12 @@ This project is ideal for DevOps professionals, cloud learners, and automation e
 
 ---
 
+## CloudMart Architecture Diagram
+
+![CloudMart Architecture](https://thecloudbootcamp.com/wp-content/uploads/2024/09/mdac-architecture-1024x491.png)
+
+---
+
 ## What You'll Learn
 
 * How to use AI to write and refine Terraform code
@@ -35,7 +41,6 @@ This project is ideal for DevOps professionals, cloud learners, and automation e
 * GitHub account for CI/CD integration
 
 ---
-
 ## 1. Configure AWS CLI
 
 ```bash
